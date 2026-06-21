@@ -19,6 +19,7 @@ This project simulates a one-dimensional abrupt silicon p-n junction diode using
 - Matplotlib
 
 ## How to Run
+## GitHub repository:https://github.com/oldlinyiyi11/pn-junction-finalreport
 
 ```bash
 pip install -r requirements.txt
